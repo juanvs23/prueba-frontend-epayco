@@ -1,3 +1,6 @@
+<img src="./public/screenshot.jpg" alt="changelogs" style="aspect-ratio: 16/9; width: 100%;" />
+<hr/>
+
 # Listado de cambios realizados en la prueba
 
 ## Cambios realizados en la prueba

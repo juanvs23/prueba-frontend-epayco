@@ -14,4 +14,4 @@ El objetivo de esta prueba es evaluar tu capacidad para estructurar y refactoriz
 - [ &#x2713; ] Agrega validaciones al formulario de adición de ítems.
 
 ### Integración
-- [ ] Crea un Pull Request (PR) en el repositorio, detallando los cambios realizados.
+- [ &#x2713; ] Crea un Pull Request (PR) en el repositorio, detallando los cambios realizados.
