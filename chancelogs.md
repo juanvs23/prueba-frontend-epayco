@@ -93,4 +93,7 @@ src/
 
 #### [ &#x2713; ] Se corrigió errores de algunas dependencias.
 
-
+### Integración
+#### [ &#x2713; ] Crea un Pull Request (PR) en el repositorio, detallando los cambios realizados.
+- Se hizo un pull request en el repositorio con los cambios realizados: [Resumen PR](https://github.com/prismaymedia/prueba-frontend-epayco/pull/25/files)
+- Se coloco coloco el proyecto en producción: [URL](https://prueba-frontend-epayco.vercel.app/)
